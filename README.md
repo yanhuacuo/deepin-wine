@@ -129,3 +129,8 @@ deepin把QQ/微信之类的deepin wine应用打包放在了deepin仓库中，因
 ## 感谢
 
 本项目受 [wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu) 项目启发，改进了一下安装方式，因此兼容原项目，已经按照deepin-wine-ubuntu项目安装好后，依然可以再按此项目进行配置，可以更方便地进行后续更新。
+
+
+## font
+
+sudo apt install fonts-wqy-microhei fonts-wqy-zenhei
